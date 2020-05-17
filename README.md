@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+hi peoples
+i have interest in web development
+so i am learning  now.
